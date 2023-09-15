@@ -1,0 +1,11 @@
+{
+  "name": "4_1_jd_mendiola_web",
+  "version": "1.0.0",
+  "description": "this a an example of full stack web application. ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Daniel Mendiola",
+  "license": "ISC"
+}
